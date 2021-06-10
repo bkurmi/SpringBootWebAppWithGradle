@@ -1,4 +1,4 @@
-FROM openjdk:latest
+FROM openjdk:8
 
 ADD build/libs/webapp-0.1.jar webapp.jar
 
